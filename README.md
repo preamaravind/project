@@ -206,7 +206,3 @@ Users ──┐
 - **Project → many Tasks** (cascade delete)
 
 ---
-
-## 📝 License
-
-MIT — do whatever you want with it.
