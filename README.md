@@ -27,7 +27,7 @@ A modern, full-stack project management application built for teams and individu
 | Layer      | Technology                                      |
 |------------|------------------------------------------------|
 | Frontend   | React 18, Vite, Tailwind CSS, React Router v6  |
-| Backend    | Node.js, Express.js, JWT, bcryptjs              |
+| Backend    | Node.js, JWT, bcryptjs              |
 | Database   | MySQL 8.0, Sequelize ORM                        |
 | Charts     | Recharts                                        |
 | Forms      | React Hook Form                                 |
